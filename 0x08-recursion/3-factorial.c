@@ -4,7 +4,6 @@
  * @n: the number to find the factorials of
  * Return: 0 on success and 1 on error 
  */
-
 int factorial(int n)
 {
 	if (n < 0)
