@@ -1,2 +1,2 @@
-This folder containd ALX tasks on preprocessor.
-This under the session od understanding C program compilation process.
+This folder contains ALX tasks on preprocessor.
+under this session, we revisit the concept of understanding C program compilation process.
