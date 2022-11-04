@@ -1,3 +1,8 @@
+/*
+ * File: 100-elf_header.c
+ * Creator
+ *
+ */
 #include <elf.h>
 #include <sys/types.h>
 #include <sys/stat.h>
@@ -179,7 +184,7 @@ void print_osabi(unsigned char *e_ident)
 	}
 }
 
-unsigned char *e_ident)
+unsigned char(*e_ident)
 {
 	printf("  Entry point address:               ");
 
